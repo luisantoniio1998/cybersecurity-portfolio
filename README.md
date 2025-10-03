@@ -54,12 +54,9 @@ Capstone project, resume building, interview preparation, and career development
 - tcpdump
 - Suricata
 
-## Contact
+## Author
 
-[Your Name]
-[Your Email]
-[LinkedIn Profile]
-[GitHub Profile]
+Luís Barros
 
 ---
 
