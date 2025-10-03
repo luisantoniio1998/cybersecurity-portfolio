@@ -445,8 +445,8 @@ This algorithm showcases my practical Python programming skills for automating s
 
 ---
 
-**Project Completed By**: [Your Name]
-**Date**: [Current Date]
+**Project Completed By**: Luís Barros
+**Date**: September 28, 2024
 **Organization**: Healthcare Company - Security Team
 **Python Version**: 3.x
 **Coding Standards**: PEP 8

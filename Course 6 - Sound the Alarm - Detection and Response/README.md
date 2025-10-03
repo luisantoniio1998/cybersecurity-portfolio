@@ -5,35 +5,26 @@ Incident detection, SIEM tools (Splunk and Chronicle), log analysis, and inciden
 
 ## Portfolio Activities
 
-### Activity 1: Document an Incident with an Incident Handler's Journal
-- **Description**: Create detailed incident documentation following best practices
-- **Skills**: Incident documentation, journal keeping, timeline creation
-- **Files**:
-  - `incident-handlers-journal.md`
+### Activity 1: Incident Handler's Journal
+- **Description**: Document security incidents following the NIST Incident Response Lifecycle
+- **Skills**: Incident documentation, timeline creation, 5 W's analysis, lessons learned
+- **File**: [`incident-handler-journal.md`](./incident-handler-journal.md)
+- **What's Included**:
+  - Entry #1: Ransomware attack on healthcare clinic
+  - Entry #2: Data breach via SQL injection
+  - Entry #3: Malware infection from spear phishing
+  - NIST IR lifecycle applied to each incident
+  - Tools used: Splunk, CrowdStrike EDR, Wireshark, VirusTotal
 
-### Activity 2: Analyze Packets with Wireshark
-- **Description**: Use Wireshark to investigate network traffic and identify threats
-- **Skills**: Packet capture analysis, network forensics, protocol analysis
-- **Files**:
-  - `wireshark-packet-analysis/`
-
-### Activity 3: Investigate a Suspicious File Hash
-- **Description**: Research file hashes using VirusTotal and threat intelligence
-- **Skills**: Malware analysis, threat intelligence, hash verification
-- **Files**:
-  - `file-hash-investigation.md`
-
-### Activity 4: Use a Playbook to Respond to Incidents
-- **Description**: Follow incident response playbooks for various security scenarios
-- **Skills**: Playbook execution, incident response, SOC procedures
-- **Files**:
-  - `incident-response-playbooks/`
-
-### Activity 5: Review a Final Report
-- **Description**: Create executive summary and technical incident reports
-- **Skills**: Report writing, communication, executive presentation
-- **Files**:
-  - `final-incident-reports/`
+### Activity 2: Wireshark Packet Analysis
+- **Description**: Analyze network traffic using Wireshark to identify security threats
+- **Skills**: Packet capture analysis, network forensics, protocol analysis, IOC extraction
+- **File**: [`wireshark-packet-analysis.md`](./wireshark-packet-analysis.md)
+- **What's Included**:
+  - Scenario 1: DNS exfiltration detection
+  - Scenario 2: Credential theft over HTTP
+  - Scenario 3: Malware C2 communication analysis
+  - Display filters, protocol analysis, IOC identification
 
 ## Key Learnings
 - SIEM fundamentals (Splunk, Chronicle)

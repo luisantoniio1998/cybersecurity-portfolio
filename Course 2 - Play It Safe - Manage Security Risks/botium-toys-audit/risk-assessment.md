@@ -158,6 +158,6 @@ The high risk score of 8/10 necessitates immediate action to protect the organiz
 
 ---
 
-**Risk Assessment Date**: [Date]
-**Conducted By**: IT Security Team
-**Next Review Date**: [Date + 6 months]
+**Risk Assessment Date**: March 15, 2024
+**Conducted By**: Luís Barros, IT Security Team
+**Next Review Date**: September 15, 2024

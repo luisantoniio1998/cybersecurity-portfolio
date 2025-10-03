@@ -290,6 +290,6 @@ While not legally required, SOC compliance demonstrates to customers, partners, 
 
 ---
 
-**Compliance Assessment Date**: [Date]
-**Assessed By**: IT Security Team
+**Compliance Assessment Date**: March 15, 2024
+**Assessed By**: Luís Barros, IT Security Team
 **Next Review**: Quarterly until compliant, then annually

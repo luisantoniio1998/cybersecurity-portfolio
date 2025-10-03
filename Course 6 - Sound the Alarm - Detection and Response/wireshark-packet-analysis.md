@@ -432,7 +432,7 @@ These packet analysis investigations showcase practical skills in network forens
 
 ---
 
-**Analysis Performed By**: [Your Name], Security Analyst
-**Date**: [Current Date]
+**Analysis Performed By**: Luís Barros, Security Analyst
+**Date**: September 5, 2024
 **Tools**: Wireshark 4.0.x
 **Environment**: Security Operations / Incident Response

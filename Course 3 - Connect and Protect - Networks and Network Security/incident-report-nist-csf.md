@@ -4,7 +4,7 @@
 
 **Organization**: Multimedia company providing web design services, graphic design, and social media marketing solutions to small businesses
 
-**Date/Time of Incident**: [Date/Time]
+**Date/Time of Incident**: August 22, 2024, 14:30 UTC
 
 **Incident Type**: Distributed Denial of Service (DDoS) Attack
 
@@ -348,7 +348,7 @@ The organization is now better positioned to prevent, detect, and respond to sim
 
 ---
 
-**Incident Report Prepared By**: [Your Name], Security Analyst
-**Date**: [Current Date]
+**Incident Report Prepared By**: Luís Barros, Security Analyst
+**Date**: August 24, 2024
 **Report Classification**: Confidential - Internal Use Only
-**Next Review Date**: [Date + 3 months]
+**Next Review Date**: November 24, 2024

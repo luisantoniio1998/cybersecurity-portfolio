@@ -5,31 +5,19 @@ Python programming fundamentals and automation of common cybersecurity tasks.
 
 ## Portfolio Activities
 
-### Activity 1: Create a Simple Algorithm
-- **Description**: Develop algorithms to solve security-related problems
-- **Skills**: Algorithm design, problem-solving, pseudocode
-- **Files**:
-  - `security-algorithms/`
-
-### Activity 2: Update a File Through a Python Algorithm
-- **Description**: Write Python scripts to manage IP allow/deny lists
-- **Skills**: File I/O, data parsing, automation scripting
-- **Files**:
-  - `file-update-automation/`
-  - `update_ip_list.py`
-
-### Activity 3: Debug Python Code
-- **Description**: Identify and fix bugs in security automation scripts
-- **Skills**: Debugging, error handling, code review
-- **Files**:
-  - `debugging-exercises/`
-
-### Activity 4: Parse a Log File
-- **Description**: Extract and analyze security events from log files
-- **Skills**: Regular expressions, log parsing, data extraction
-- **Files**:
-  - `log-parser/`
-  - `parse_security_logs.py`
+### Activity: Update File Through Python Algorithm
+- **Description**: Python automation script to manage IP allow list for access control
+- **Skills**: File I/O, string manipulation, list operations, functions, algorithm design
+- **File**: [`update-file-algorithm.md`](./update-file-algorithm.md)
+- **What's Included**:
+  - Complete Python algorithm explained step-by-step
+  - File reading with `with` statement
+  - String to list conversion using `.split()`
+  - Iterating and removing items with loops and `.remove()`
+  - List to string conversion using `.join()`
+  - File writing to update allow list
+  - Reusable function with documentation
+  - Following PEP 8 coding standards
 
 ## Key Learnings
 - Python fundamentals (variables, loops, functions)

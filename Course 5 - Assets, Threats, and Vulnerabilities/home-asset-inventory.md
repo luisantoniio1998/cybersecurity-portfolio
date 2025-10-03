@@ -469,7 +469,7 @@ These asset management skills are directly applicable to enterprise environments
 
 ---
 
-**Assessment Completed By**: [Your Name]
-**Date**: [Current Date]
+**Assessment Completed By**: Luís Barros
+**Date**: July 25, 2024
 **Review Frequency**: Quarterly
-**Next Review**: [Date + 3 months]
+**Next Review**: October 25, 2024

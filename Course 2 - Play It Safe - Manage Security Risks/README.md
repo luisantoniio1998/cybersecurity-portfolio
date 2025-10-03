@@ -5,23 +5,16 @@ Security frameworks, risk management strategies, security controls, and incident
 
 ## Portfolio Activities
 
-### Activity 1: Conduct a Security Audit
-- **Description**: Complete a comprehensive security audit for a fictional company
-- **Skills**: Risk assessment, controls evaluation, compliance checking
-- **Files**:
-  - `botium-toys-audit/`
-
-### Activity 2: Analyze Network Layer Communication
-- **Description**: Analyze network traffic and identify security concerns
-- **Skills**: Network analysis, threat identification
-- **Files**:
-  - `network-analysis-report.md`
-
-### Activity 3: Use the NIST Cybersecurity Framework
-- **Description**: Apply NIST CSF to respond to a security incident
-- **Skills**: Framework application, incident response planning
-- **Files**:
-  - `nist-csf-incident-response.md`
+### Activity: Botium Toys Security Audit (Complete)
+- **Description**: Comprehensive internal security audit for a fictional small business
+- **Skills**: Risk assessment, controls evaluation, compliance checking (PCI DSS, GDPR, SOC 2)
+- **Folder**: [`botium-toys-audit/`](./botium-toys-audit/)
+- **What's Included**:
+  - [`risk-assessment.md`](./botium-toys-audit/risk-assessment.md) - Risk score 8/10 analysis
+  - [`controls-assessment.md`](./botium-toys-audit/controls-assessment.md) - 14 controls evaluated
+  - [`compliance-checklist.md`](./botium-toys-audit/compliance-checklist.md) - PCI DSS, GDPR, SOC 2 analysis
+  - [`stakeholder-memorandum.md`](./botium-toys-audit/stakeholder-memorandum.md) - Executive summary
+  - [`audit-scope-and-goals.md`](./botium-toys-audit/audit-scope-and-goals.md) - Audit planning
 
 ## Key Learnings
 - NIST Cybersecurity Framework

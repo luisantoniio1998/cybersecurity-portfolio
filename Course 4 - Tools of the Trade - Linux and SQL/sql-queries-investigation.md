@@ -355,7 +355,7 @@ This project showcases my practical SQL skills for cybersecurity analysis, demon
 
 ---
 
-**Project Completed By**: [Your Name]
-**Date**: [Current Date]
+**Project Completed By**: Luís Barros
+**Date**: June 15, 2024
 **Department**: Security Operations / SOC
 **Database**: Employee and Security Logs Database

@@ -462,7 +462,7 @@ This incident handler's journal documents three distinct security incidents:
 
 ---
 
-**Journal Maintained By**: [Your Name], Security Analyst
+**Journal Maintained By**: Luís Barros, Security Analyst
 **Organization**: Security Operations Center (SOC)
 **Review Frequency**: After each incident
-**Last Updated**: [Current Date]
+**Last Updated**: October 22, 2024

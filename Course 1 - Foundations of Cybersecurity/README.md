@@ -5,12 +5,16 @@ Introduction to the cybersecurity field, common security frameworks, and the rol
 
 ## Portfolio Activities
 
-### Activity 1: Conduct a Security Audit
-- **Description**: Perform a security audit using controls and compliance checklist
-- **Skills**: Security frameworks, compliance, risk assessment
-- **Files**:
-  - `security-audit-report.pdf`
-  - `controls-assessment.md`
+### Activity: Professional Statement
+- **Description**: Articulate personal strengths, values, and interest in cybersecurity
+- **Skills**: Self-reflection, professional communication, career planning
+- **File**: [`professional-statement.md`](./professional-statement.md)
+- **What's Included**:
+  - Core interests in cybersecurity
+  - Key strengths (analytical problem-solving, continuous learning)
+  - Core values (privacy protection, ethical practice)
+  - Career goals and aspirations
+  - How strengths and values apply to security work
 
 ## Key Learnings
 - Security frameworks (NIST CSF, CIA Triad)

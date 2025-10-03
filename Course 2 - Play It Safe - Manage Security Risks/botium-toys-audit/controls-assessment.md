@@ -247,6 +247,6 @@ The absence of these controls directly impacts compliance with:
 
 ---
 
-**Assessment Date**: [Date]
-**Assessed By**: IT Security Team
-**Next Review**: [Date + 3 months]
+**Assessment Date**: March 15, 2024
+**Assessed By**: Luís Barros, IT Security Team
+**Next Review**: June 15, 2024

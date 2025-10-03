@@ -5,29 +5,28 @@ Asset classification, threat modeling, vulnerability assessment, and security co
 
 ## Portfolio Activities
 
-### Activity 1: Classify Assets
-- **Description**: Develop an asset inventory and classification system
-- **Skills**: Asset management, data classification, risk prioritization
-- **Files**:
-  - `asset-classification.md`
+### Activity 1: Vulnerability Assessment Report
+- **Description**: Comprehensive vulnerability assessment for a small business
+- **Skills**: Vulnerability identification, risk scoring (CVSS), remediation planning, cost analysis
+- **File**: [`vulnerability-assessment-report.md`](./vulnerability-assessment-report.md)
+- **What's Included**:
+  - 13 vulnerabilities identified (4 Critical, 6 High, 3 Medium)
+  - CVSS scoring for each vulnerability
+  - Detailed remediation roadmap with priorities
+  - Cost estimates ($13K-$24K investment)
+  - Compliance impact (PCI DSS, GDPR)
+  - Risk summary matrix
 
-### Activity 2: Score Risks Based on Likelihood and Severity
-- **Description**: Assess and score security risks using risk matrices
-- **Skills**: Risk assessment, threat analysis, impact evaluation
-- **Files**:
-  - `risk-assessment-matrix.md`
-
-### Activity 3: Determine Appropriate Data Handling Practices
-- **Description**: Create data handling policies based on classification
-- **Skills**: Data protection, compliance, policy development
-- **Files**:
-  - `data-handling-practices.md`
-
-### Activity 4: Analyze a Vulnerable System for a Small Business
-- **Description**: Conduct vulnerability analysis and provide remediation recommendations
-- **Skills**: Vulnerability assessment, system analysis, security recommendations
-- **Files**:
-  - `vulnerability-analysis-report.md`
+### Activity 2: Home Network Asset Inventory
+- **Description**: Asset classification and inventory for a home network environment
+- **Skills**: Asset identification, classification (Critical/High/Medium/Low), security controls assessment
+- **File**: [`home-asset-inventory.md`](./home-asset-inventory.md)
+- **What's Included**:
+  - 16 network devices catalogued and classified
+  - Security controls for each asset type
+  - Network segmentation strategy
+  - Risk assessment by asset
+  - Defense-in-depth implementation
 
 ## Key Learnings
 - Asset classification and inventory

@@ -234,6 +234,6 @@ This project showcases my practical skills in Linux system administration and se
 
 ---
 
-**Project Completed By**: [Your Name]
-**Date**: [Current Date]
+**Project Completed By**: Luís Barros
+**Date**: June 10, 2024
 **Organization**: Research Team Security Management

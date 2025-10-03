@@ -499,9 +499,9 @@ This portfolio represents comprehensive training and hands-on experience across 
 
 ---
 
-**Portfolio Completed By**: [Your Name]
-**Completion Date**: [Current Date]
+**Portfolio Completed By**: Luís Barros
+**Completion Date**: October 2024
 **Certificate**: Google Cybersecurity Professional Certificate
-**Contact**: [Your Email] | [LinkedIn] | [GitHub]
+**Contact**: luisantoniio1998@gmail.com | https://www.linkedin.com/in/-luis-barros-/ | https://github.com/luisantoniio1998
 
 🔒 Ready to contribute to organizational security and protect against cyber threats!
