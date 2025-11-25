@@ -54,14 +54,6 @@ Capstone project, resume building, interview preparation, and career development
 - tcpdump
 - Suricata
 
-## Contact
 
-**Luís Barros**
-Cybersecurity Professional
-📧 Email: luisantoniio1998@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/-luis-barros-/
-🔗 GitHub: https://github.com/luisantoniio1998
-
----
 
 *This portfolio is part of the Google Cybersecurity Professional Certificate program on Coursera.*
