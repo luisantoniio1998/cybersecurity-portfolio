@@ -1,12 +1,10 @@
-# Google Cybersecurity Professional Certificate Portfolio
+# Google Cybersecurity Certificate — my coursework
 
-This portfolio contains hands-on projects and activities completed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
+These are my projects and notes from the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity).
 
-## About This Portfolio
+The folders follow the eight courses. They include audit exercises, network analysis, Linux permissions, SQL queries, incident reports, and a Python file-processing exercise. The business and incident scenarios are coursework, not client engagements.
 
-This collection demonstrates practical cybersecurity skills including security frameworks, incident response, network security, Linux administration, Python automation, and SIEM tools usage.
-
-## Certificate Program Structure
+## Courses
 
 ### [Course 1: Foundations of Cybersecurity](./Course%201%20-%20Foundations%20of%20Cybersecurity)
 Introduction to cybersecurity practices and processes, security frameworks, and the security analyst role.
@@ -30,30 +28,4 @@ Incident detection, SIEM tools (Splunk, Chronicle), log analysis, and incident r
 Python programming for security automation, log parsing, file handling, and security task automation.
 
 ### [Course 8: Put It to Work - Prepare for Cybersecurity Jobs](./Course%208%20-%20Put%20It%20to%20Work%20-%20Prepare%20for%20Cybersecurity%20Jobs)
-Capstone project, resume building, interview preparation, and career development.
-
-## Key Skills Demonstrated
-
-- **Security Frameworks**: NIST CSF, OWASP, CIA Triad
-- **Risk Management**: Security audits, risk assessment, compliance
-- **Network Security**: Packet analysis, firewall configuration, intrusion detection
-- **Linux Administration**: Command line proficiency, file permissions, user management
-- **SIEM Tools**: Splunk, Google Chronicle
-- **Python Automation**: Security scripting, log analysis, file operations
-- **Incident Response**: Detection, analysis, containment, recovery
-- **SQL**: Database queries, filtering, joins
-
-## Tools & Technologies
-
-- Linux/Bash
-- Python
-- SQL
-- Wireshark
-- Splunk
-- Google Chronicle
-- tcpdump
-- Suricata
-
-
-
-*This portfolio is part of the Google Cybersecurity Professional Certificate program on Coursera.*
+Portfolio review and course notes on presenting the work.
